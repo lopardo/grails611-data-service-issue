@@ -1,8 +1,8 @@
 info:
   app:
-    name: myapp
-    version: '0.1'
-    grailsVersion: 6.1.0
+    name: '@info.app.name@'
+    version: '@info.app.version@'
+    grailsVersion: '@info.app.grailsVersion@'
 grails:
   views:
     default:
